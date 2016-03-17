@@ -1,1 +1,2 @@
-hello sucka
+hello world
+hello friends
